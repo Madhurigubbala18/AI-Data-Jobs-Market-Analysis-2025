@@ -67,6 +67,5 @@ Through this project, I demonstrate my ability to:
  **Madhuri Gubbala**  
 - Aspiring Data Analyst | Skilled in Power BI, Excel, SQL, Python  
 -  Email: madhurigubbala18@gmail.com  
--  Phone: +91 9440545397  
--  [LinkedIn Profile](https://linkedin.com) *(add your link here)*  
+-  Phone: +91 9440545397   
 
